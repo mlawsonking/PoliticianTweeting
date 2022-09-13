@@ -6,3 +6,5 @@ it's somewhat random nature in scraping tweets. Increased date ranges tend to de
 so it was limited to one-month increments, and repeated 10 times per person per month to get them all.
 
 The twitter handles were updated 5/12/2022, before the majority of the data was collected.
+
+[Aggregated trigrams of full house twitter scrape from 2020-2022](https://public.flourish.studio/visualisation/11014788/)
